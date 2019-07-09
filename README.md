@@ -13,6 +13,7 @@ The json versions are close approximations of the mtf structure, though unit nam
 	name: "
 	model: "
 	alias: Alternative name, e.g. Daishi. Optional.
+	modelNickname: e.g. Yen Lo Wang
 ```
 
 `catalog.json` and json files and were generated with a separate MTF parser that I hope to release eventually. 
