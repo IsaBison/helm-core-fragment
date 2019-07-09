@@ -1,8 +1,11 @@
 # Helm Core Fragment
 
-A catalog of MegaMek units in MTF and (MTF)JSON format.
+A catalog of MegaMek robot units in MTF and (MTF)JSON format.
 
-The json versions are close approximations of the mtf structure, though unit name, model, alias, and nicknames are in separate fields. The schema is in progress and will probably be removed soon until its improved. 
+There's been some small tweaks to a few of the mtf files in mtf catalog to improve consistancy. Some things are still outstanding, e.g. 'history' vs. 'hist' ).
+
+The json versions are close approximations of the mtf structure, though unit name, model, alias, and nicknames are in separate fields. The schema is my first time making one so... it's probably not great and may be removed. 
+
 
 `catalog.json` includes entries for each unit where
 ```
@@ -12,4 +15,4 @@ The json versions are close approximations of the mtf structure, though unit nam
 	alias: Alternative name, e.g. Daishi. Optional.
 ```
 
-`catalog.json` and json files and  were generated with a separate MTF parser that I hope to release eventually. 
+`catalog.json` and json files and were generated with a separate MTF parser that I hope to release eventually. 
