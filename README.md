@@ -4,7 +4,7 @@ A catalog of [MegaMek](https://github.com/MegaMek) robot units in MTF and JSON f
 
 There's been some small tweaks to a few of the mtf files in the catalog to improve consistancy. Some things are still outstanding, e.g. 'history' vs. 'hist'.
 
-The json versions are close approximations of the mtf structure, though unit name, model, alias, and nicknames are in separate fields. The schema is my first time making one so... it's probably not great and may be removed. 
+The json versions are close approximations of the mtf structure, though unit name, model, alias, and nicknames are in separate fields, and a variety of things that should be numbers are strings. The schema is my first time making one so... it's probably not great and may be removed. 
 
 
 `catalog.json` includes entries for each unit where
