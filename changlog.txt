@@ -1,0 +1,21 @@
+# 1.2
+Added missing RS Sucession Wars units.
+
+# 1.1
+
+Removed trademarked  word from unit designations, their filenames, and a weapon name. 
+Changed capitalization of 'mek' in some unit names to 'Mek' for consistancy. 
+Made sure industrialmek names followed this convention:
+	
+	name: Carbine
+	model: CON-7 ConstructionMek (Standard)
+
+not: 
+
+	name: Carbine CON-7 ConstructionMek 
+	model: (Standard)
+
+
+# 1.0
+
+Initial commit.
