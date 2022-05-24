@@ -3,32 +3,32 @@ Thunderbolt
 C
 
 Config:Biped
-TechBase:Mixed (IS Chassis)
-Era:3050
-Source:Clan Invasion
-Rules Level:4
+techbase:Mixed (IS Chassis)
+era:2832
+source:ilClan RecGuide 15 - Succession Wars
+rules level:4
 
-Mass:65
-Engine:260 Fusion Engine(IS)
-Structure:Standard
-Myomer:Standard
+mass:65
+engine:260 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
 
-Heat Sinks:15 Single
-Walk MP:4
-Jump MP:0
+heat sinks:24 Single
+walk mp:4
+jump mp:0
 
-Armor:Standard(Inner Sphere)
-LA Armor:20
-RA Armor:20
-LT Armor:24
-RT Armor:24
-CT Armor:30
-HD Armor:9
-LL Armor:29
-RL Armor:29
-RTL Armor:6
-RTR Armor:6
-RTC Armor:11
+armor:Standard(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:24
+RT armor:24
+CT armor:30
+HD armor:9
+LL armor:29
+RL armor:29
+RTL armor:6
+RTR armor:6
+RTC armor:11
 
 Weapons:5
 ER Medium Laser, Left Arm
@@ -66,9 +66,9 @@ CLLargePulseLaser
 -Empty-
 
 Left Torso:
+Heat Sink
+Heat Sink
 CLERLargeLaser
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -80,11 +80,11 @@ CLERLargeLaser
 -Empty-
 
 Right Torso:
--Empty-
--Empty-
--Empty-
--Empty-
--Empty-
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
+Heat Sink
 -Empty-
 -Empty-
 -Empty-
@@ -104,8 +104,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
--Empty-
+Heat Sink
+Heat Sink
 
 Head:
 Life Support
@@ -149,4 +149,4 @@ Heat Sink
 -Empty-
 -Empty-
 
-imagefile:.\data\images\fluff\Mek\Thunderbolt3050.jpg
+

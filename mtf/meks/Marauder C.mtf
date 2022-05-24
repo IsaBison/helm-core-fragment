@@ -3,48 +3,48 @@ Marauder
 C
 
 Config:Biped
-TechBase:Mixed (IS Chassis)
-Era:3050
-Source:Clan Invasion
-Rules Level:4
+techbase:Mixed (Clan Chassis)
+era:3050
+source:Clan Invasion
+rules level:4
 
-Mass:75
-Engine:300 Fusion Engine
-Structure:Standard
-Myomer:Standard
+mass:75
+engine:300 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
 
-Heat Sinks:16 Single
-Walk MP:4
-Jump MP:0
+heat sinks:19 Single
+walk mp:4
+jump mp:0
 
-Armor:Standard(Inner Sphere)
-LA Armor:22
-RA Armor:22
-LT Armor:17
-RT Armor:17
-CT Armor:35
-HD Armor:9
-LL Armor:18
-RL Armor:18
-RTL Armor:8
-RTR Armor:8
-RTC Armor:10
+armor:Standard(Inner Sphere)
+LA armor:22
+RA armor:22
+LT armor:17
+RT armor:17
+CT armor:35
+HD armor:9
+LL armor:18
+RL armor:18
+RTL armor:8
+RTR armor:8
+RTC armor:10
 
 Weapons:5
-Large Pulse Laser, Right Arm
 Large Pulse Laser, Left Arm
-Medium Laser, Right Arm
 Medium Laser, Left Arm
+Large Pulse Laser, Right Arm
+Medium Laser, Right Arm
 Ultra AC/5, Right Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
+Heat Sink
 CLLargePulseLaser
 CLLargePulseLaser
 Medium Laser
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -55,6 +55,7 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
+Heat Sink
 CLLargePulseLaser
 CLLargePulseLaser
 Medium Laser
@@ -63,11 +64,10 @@ Medium Laser
 -Empty-
 -Empty-
 -Empty-
--Empty-
 
 Left Torso:
 Clan Ultra AC/5 Ammo
-ISCASE
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -104,7 +104,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
--Empty-
+Heat Sink
 -Empty-
 
 Head:

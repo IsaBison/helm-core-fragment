@@ -3,42 +3,42 @@ Warhammer
 C
 
 Config:Biped
-TechBase:Mixed (IS Chassis)
-Era:3050
-Source:Clan Invasion
-Rules Level:4
+techbase:Mixed (IS Chassis)
+era:3050
+source:Clan Invasion
+rules level:4
 
-Mass:70
-Engine:280 Fusion Engine
-Structure:Standard
-Myomer:Standard
+mass:70
+engine:280 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
 
-Heat Sinks:18 Single
-Walk MP:4
-Jump MP:0
+heat sinks:20 Single
+walk mp:4
+jump mp:0
 
-Armor:Standard(Inner Sphere)
-LA Armor:20
-RA Armor:20
-LT Armor:17
-RT Armor:17
-CT Armor:22
-HD Armor:9
-LL Armor:15
-RL Armor:15
-RTL Armor:8
-RTR Armor:8
-RTC Armor:9
+armor:Standard(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:17
+RT armor:17
+CT armor:22
+HD armor:9
+LL armor:15
+RL armor:15
+RTL armor:8
+RTR armor:8
+RTC armor:9
 
 Weapons:9
-Streak SRM 6, Right Torso
-ER Medium Laser, Left Torso
-ER Medium Laser, Right Torso
-ER Small Laser, Left Torso
-ER Small Laser, Right Torso
-Large Pulse Laser, Right Arm
 Large Pulse Laser, Left Arm
+Large Pulse Laser, Right Arm
+ER Medium Laser, Left Torso
+ER Small Laser, Left Torso
 Machine Gun, Left Torso
+Streak SRM 6, Right Torso
+ER Medium Laser, Right Torso
+ER Small Laser, Right Torso
 Machine Gun, Right Torso
 
 Left Arm:
@@ -70,11 +70,11 @@ CLLargePulseLaser
 -Empty-
 
 Left Torso:
+Heat Sink
+Heat Sink
 CLERMediumLaser
 CLERSmallLaser
 Machine Gun
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
