@@ -1,10 +1,11 @@
 Version:1.0
 Warhammer IIC
 11
+mul id:6858
 
 Config:Biped
 TechBase:Clan
-Era:2938
+Era:3124
 Source:RS 3145 NT NU
 Rules Level:2
 
