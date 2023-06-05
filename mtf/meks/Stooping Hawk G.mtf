@@ -34,9 +34,9 @@ RTC Armor:7
 Weapons:7
 ER Medium Laser, Left Arm
 ER Medium Laser, Right Arm
-ProtoMek AC/4, Right Torso
-ProtoMek AC/4, Right Torso
-ProtoMek AC/4, Left Torso
+ProtoMech AC/4, Right Torso
+ProtoMech AC/4, Right Torso
+ProtoMech AC/4, Left Torso
 ER Medium Laser, Right Arm
 ER Medium Laser, Left Arm
 
@@ -71,9 +71,9 @@ Endo Steel
 Left Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
-CLProtoMekAC4
-CLProtoMekAC4
-CLProtoMekAC4
+CLProtoMechAC4
+CLProtoMechAC4
+CLProtoMechAC4
 CLProtoAC4Ammo
 Ferro-Fibrous
 Ferro-Fibrous
@@ -86,12 +86,12 @@ Ferro-Fibrous
 Right Torso:
 CLDoubleHeatSink
 CLDoubleHeatSink
-CLProtoMekAC4
-CLProtoMekAC4
-CLProtoMekAC4
-CLProtoMekAC4
-CLProtoMekAC4
-CLProtoMekAC4
+CLProtoMechAC4
+CLProtoMechAC4
+CLProtoMechAC4
+CLProtoMechAC4
+CLProtoMechAC4
+CLProtoMechAC4
 CLProtoAC4Ammo
 Endo Steel
 Endo Steel

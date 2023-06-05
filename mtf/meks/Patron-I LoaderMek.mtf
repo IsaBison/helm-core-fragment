@@ -1,5 +1,5 @@
 Version:1.1
-Patron I LoaderMek
+Patron I LoaderMech
 
 Config:Biped
 TechBase:Inner Sphere
@@ -62,7 +62,7 @@ Hand Actuator
 -Empty-
 
 Left Torso:
-MekSprayer
+MechSprayer
 -Empty-
 -Empty-
 -Empty-

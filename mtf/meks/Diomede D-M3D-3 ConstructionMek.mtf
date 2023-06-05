@@ -1,6 +1,6 @@
 Version:1.0
 Diomede
-D-M3D-3 ConstructionMek
+D-M3D-3 ConstructionMech
 
 Config:Biped
 TechBase:Inner Sphere
@@ -71,7 +71,7 @@ ISMML7
 ISMML7
 IS Ammo MML-7 LRM
 IS Ammo MML-7 SRM
-MekSprayer
+MechSprayer
 Lift Hoist (R)
 Lift Hoist (R)
 Lift Hoist (R)
@@ -85,7 +85,7 @@ ISMML7
 ISMML7
 IS Ammo MML-7 LRM
 IS Ammo MML-7 SRM
-MekSprayer
+MechSprayer
 Lift Hoist (R)
 Lift Hoist (R)
 Lift Hoist (R)
@@ -148,4 +148,4 @@ Tracks
 -Empty-
 -Empty-
 
-imagefile:.\data\images\fluff\Mek\Diomede.jpg
+imagefile:.\data\images\fluff\Mech\Diomede.jpg

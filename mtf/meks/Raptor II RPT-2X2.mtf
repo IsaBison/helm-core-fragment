@@ -40,7 +40,7 @@ Medium VSP Laser, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 IS Endo Steel
 IS Light Ferro-Fibrous
@@ -59,7 +59,7 @@ TSEMP Cannon
 TSEMP Cannon
 TSEMP Cannon
 TSEMP Cannon
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 IS Endo Steel
 IS Light Ferro-Fibrous
@@ -73,7 +73,7 @@ ISMediumVSPLaser
 ISMediumVSPLaser
 ISMASC
 ISMASC
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
@@ -85,7 +85,7 @@ Fusion Engine
 Fusion Engine
 ISMediumVSPLaser
 ISMediumVSPLaser
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 IS Endo Steel
 IS Endo Steel
@@ -104,7 +104,7 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Mek Void Signature System
+Mech Void Signature System
 -Empty-
 
 Head:
@@ -126,7 +126,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 -Empty-
 -Empty-
@@ -140,7 +140,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Mek Void Signature System
+Mech Void Signature System
 IS Endo Steel
 -Empty-
 -Empty-
@@ -149,5 +149,5 @@ IS Endo Steel
 -Empty-
 -Empty-
 
-imagefile:.\data\images\fluff\Mek\3076Raptor II.jpg
+imagefile:.\data\images\fluff\Mech\3076Raptor II.jpg
 

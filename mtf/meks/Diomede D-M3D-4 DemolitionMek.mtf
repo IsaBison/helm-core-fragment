@@ -1,6 +1,6 @@
 Version:1.0
 Diomede
-D-M3D-4 DemolitionMek
+D-M3D-4 DemolitionMech
 
 Config:Biped
 TechBase:Inner Sphere
@@ -47,7 +47,7 @@ Dual Saw
 Dual Saw
 Dual Saw
 Dual Saw
-MekSprayer
+MechSprayer
 Liquid Storage (0.5 tons)
 
 Right Arm:
@@ -71,7 +71,7 @@ ISMML7
 ISMML7
 IS Ammo MML-7 LRM
 IS Ammo MML-7 SRM
-MekSprayer
+MechSprayer
 Lift Hoist (R)
 Lift Hoist (R)
 Lift Hoist (R)
@@ -85,7 +85,7 @@ ISMML7
 ISMML7
 IS Ammo MML-7 LRM
 IS Ammo MML-7 SRM
-MekSprayer
+MechSprayer
 Lift Hoist (R)
 Lift Hoist (R)
 Lift Hoist (R)

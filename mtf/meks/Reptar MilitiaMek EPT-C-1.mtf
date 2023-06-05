@@ -1,5 +1,5 @@
 Version:1.0
-Reptar MilitiaMek
+Reptar MilitiaMech
 EPT-C-1
 
 Config:Biped
@@ -31,7 +31,7 @@ RTR Armor:2
 RTC Armor:3
 
 Weapons:3
-ProtoMek AC/8, Right Arm
+ProtoMech AC/8, Right Arm
 Light Machine Gun, Left Torso
 Light Machine Gun, Right Torso
 
@@ -54,10 +54,10 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
 -Empty-
 -Empty-
 -Empty-
@@ -79,8 +79,8 @@ Clan Light Machine Gun Ammo - Half
 
 Right Torso:
 CLLightMG
-Clan ProtoMek AC/8 Ammo
-Clan ProtoMek AC/8 Ammo
+Clan ProtoMech AC/8 Ammo
+Clan ProtoMech AC/8 Ammo
 -Empty-
 -Empty-
 -Empty-

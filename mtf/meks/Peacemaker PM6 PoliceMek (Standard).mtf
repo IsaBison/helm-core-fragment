@@ -1,5 +1,5 @@
 Version:1.0
-Peacemaker PM6 PoliceMek
+Peacemaker PM6 PoliceMech
 (Standard)
 
 Config:Biped
@@ -32,7 +32,7 @@ RTC Armor:4
 
 Weapons:3
 Machine Gun, Left Arm
-Mek Taser, Right Arm
+Mech Taser, Right Arm
 SRM 2, Right Torso
 
 Left Arm:
@@ -53,9 +53,9 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-Mek Taser
-Mek Taser
-Mek Taser
+Mech Taser
+Mech Taser
+Mech Taser
 Taser Ammo
 Environmental Sealing
 -Empty-

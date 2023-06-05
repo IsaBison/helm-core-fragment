@@ -1,6 +1,6 @@
 Version:1.1
 Fwltur
-FWL-3V SalvageMek
+FWL-3V SalvageMech
 
 Config:Biped
 TechBase:Inner Sphere
@@ -146,4 +146,4 @@ Jump Booster
 -Empty-
 -Empty-
 
-imagefile:.\data\images\fluff\Mek\3085Fwltur.jpg
+imagefile:.\data\images\fluff\Mech\3085Fwltur.jpg

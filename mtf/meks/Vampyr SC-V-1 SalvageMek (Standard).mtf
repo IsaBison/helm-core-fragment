@@ -1,5 +1,5 @@
 Version:1.1
-Vampyr SC-V-1 SalvageMek
+Vampyr SC-V-1 SalvageMech
 (Standard)
 
 Config:Quad
@@ -77,8 +77,8 @@ Industrial TSM
 Environmental Sealing
 
 Right Torso:
-MekSprayer
-Light Fluid Suction System (Mek)
+MechSprayer
+Light Fluid Suction System (Mech)
 Liquid Storage (1 ton)
 Liquid Storage (1 ton)
 Cargo (1 ton)

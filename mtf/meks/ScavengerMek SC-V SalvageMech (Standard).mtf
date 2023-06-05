@@ -1,5 +1,5 @@
 Version:1.1
-ScavengerMek SC-V SalvageMek
+ScavengerMech SC-V SalvageMech
 (Standard)
 
 Config:Quad
@@ -78,8 +78,8 @@ Cargo (1 ton)
 
 Right Torso:
 Searchlight
-MekSprayer
-Light Fluid Suction System (Mek)
+MechSprayer
+Light Fluid Suction System (Mech)
 Liquid Storage (1 ton)
 Liquid Storage (1 ton)
 Cargo (1 ton)

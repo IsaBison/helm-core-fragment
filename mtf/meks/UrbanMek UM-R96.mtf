@@ -1,5 +1,5 @@
 Version:1.0
-UrbanMek
+UrbanMech
 UM-R96
 
 Config:Biped
@@ -146,6 +146,6 @@ Foot Actuator
 -Empty-
 -Empty-
 
-manufacturer:Hellespont Industrials 
+manufacturer:Hellespont Industrials
 primaryfactory:Betelgeuse
 

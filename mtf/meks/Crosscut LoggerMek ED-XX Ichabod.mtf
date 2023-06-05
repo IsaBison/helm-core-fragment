@@ -33,7 +33,7 @@ RTC Armor:4
 Weapons:4
 1 ISERMediumLaser, Head
 1 ISERSmallLaser, Head
-1 ISMekTaser, Left Arm, Ammo:5
+1 ISMechTaser, Left Arm, Ammo:5
 1 Chainsaw, Right Arm
 
 Left Arm:
@@ -42,9 +42,9 @@ Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
 Heat Sink
-ISMekTaser
-ISMekTaser
-ISMekTaser
+ISMechTaser
+ISMechTaser
+ISMechTaser
 -Empty-
 -Empty-
 -Empty-
@@ -67,7 +67,7 @@ Chainsaw
 Left Torso:
 Life Support
 Heat Sink
-MekTaserAmmo
+MechTaserAmmo
 ISCASE
 -Empty-
 -Empty-

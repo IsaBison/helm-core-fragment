@@ -33,8 +33,8 @@ Weapons:8
 AP Gauss Rifle, Left Arm
 AP Gauss Rifle, Left Arm
 AP Gauss Rifle, Left Arm
-ProtoMek AC/8, Right Arm
-ProtoMek AC/8, Right Arm
+ProtoMech AC/8, Right Arm
+ProtoMech AC/8, Right Arm
 Improved Heavy Medium Laser, Left Torso
 Improved Heavy Medium Laser, Right Torso
 ER Flamer, Head
@@ -57,14 +57,14 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
-CLProtoMekAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
+CLProtoMechAC8
 Ferro-Fibrous
 
 Left Torso:
@@ -84,9 +84,9 @@ Ferro-Fibrous
 Right Torso:
 CLImprovedMediumHeavyLaser
 CLImprovedMediumHeavyLaser
-Clan ProtoMek AC/8 Ammo
-Clan ProtoMek AC/8 Ammo
-Clan ProtoMek AC/8 Ammo
+Clan ProtoMech AC/8 Ammo
+Clan ProtoMech AC/8 Ammo
+Clan ProtoMech AC/8 Ammo
 CLCASEII
 Ferro-Fibrous
 Ferro-Fibrous

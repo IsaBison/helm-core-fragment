@@ -44,7 +44,7 @@ Upper Arm Actuator
 ISStreakSRM6
 ISStreakSRM6
 IS Streak SRM 6 Ammo
-Mek Void Signature System
+Mech Void Signature System
 Endo Steel
 Endo Steel
 Light Ferro-Fibrous
@@ -58,7 +58,7 @@ Upper Arm Actuator
 BloodhoundActiveProbe
 BloodhoundActiveProbe
 BloodhoundActiveProbe
-Mek Void Signature System
+Mech Void Signature System
 Endo Steel
 Endo Steel
 Light Ferro-Fibrous
@@ -72,7 +72,7 @@ Fusion Engine
 Fusion Engine
 ISMASC
 ISMASC
-Mek Void Signature System
+Mech Void Signature System
 ISCASE
 Endo Steel
 Endo Steel
@@ -87,7 +87,7 @@ Fusion Engine
 ISERLargeLaser
 ISERLargeLaser
 ISERMediumLaser
-Mek Void Signature System
+Mech Void Signature System
 Endo Steel
 Endo Steel
 Endo Steel
@@ -106,7 +106,7 @@ Fusion Engine
 Fusion Engine
 Fusion Engine
 ISERSmallLaser (R)
-Mek Void Signature System
+Mech Void Signature System
 
 Head:
 Life Support
@@ -127,7 +127,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Mek Void Signature System
+Mech Void Signature System
 Endo Steel
 -Empty-
 -Empty-
@@ -141,7 +141,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Mek Void Signature System
+Mech Void Signature System
 Endo Steel
 -Empty-
 -Empty-
@@ -150,4 +150,4 @@ Endo Steel
 -Empty-
 -Empty-
 
-imagefile:.\data\images\fluff\Mek\3076Raptor II.jpg
+imagefile:.\data\images\fluff\Mech\3076Raptor II.jpg
