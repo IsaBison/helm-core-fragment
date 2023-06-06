@@ -1,16 +1,17 @@
 Version:1.0
-Blood Asp
+Star Adder (Blood Asp)
 A
+mul id:399
 
 Config:Biped Omnimech
 TechBase:Clan
 Era:3060
-Source:TRO 3060
+Source:TRO 3060 - Clan Invasion
 Rules Level:2
 
 Mass:90
-Engine:360 XL (Clan) Engine
-Structure:Endo Steel
+Engine:360 XL (Clan) Engine(IS)
+Structure:Clan Endo Steel
 Myomer:Standard
 
 Heat Sinks:25 Double
@@ -40,58 +41,58 @@ ER PPC, Right Arm
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLERPPC
-CLERPPC
-Endo Steel
-Endo Steel
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLHeavyLargeLaser
-CLERPPC
-CLERPPC
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLHeavyLargeLaser (omnipod)
+CLERPPC (omnipod)
+CLERPPC (omnipod)
+Clan Endo Steel
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-Jump Jet
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+Jump Jet (omnipod)
+Clan Endo Steel
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLDoubleHeatSink
-Jump Jet
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-CLTargeting Computer
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+Jump Jet (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+CLTargeting Computer (omnipod)
+Clan Endo Steel
 
 Center Torso:
 Fusion Engine
@@ -104,14 +105,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
-CLECMSuite
+Jump Jet (omnipod)
+CLECMSuite (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-Endo Steel
+Clan Endo Steel
 Sensors
 Life Support
 -Empty-
@@ -126,8 +127,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -140,8 +141,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -149,4 +150,18 @@ CLDoubleHeatSink
 -Empty-
 -Empty-
 
+overview:One of the first 'Mechs to field the breakthrough Heavy Laser technology, the Blood Asp proves to be an offensive powerhouse. Delivering incredible damage at all ranges, the Blood Asp makes short work of any enemy regardless of size.
 
+capabilities:Based on the Kingfisher, the Blood Asp adds an XL engine, but space constraints forced the replacement of the Kingfisher's ferro-fibrous armor with standard plate. The Blood Asp incorporates sixteen tons of this armor and fourteen double heat sinks in the base chassis.
+
+deployment:This configuration is built for assault. It uses an advanced Targeting Computer to guide a pair of ER PPCs and two Heavy Large Lasers. Eleven additional heat sinks fail to keep this configuration cool, especially with the addition of enough jump jets to leap ninety meters at a time. It also incorporates an ECM Suite to protect itself from enemy electronics.
+
+history:Created by Clan Star Adder as an insult to their enemies, Clan Blood Spirit, the Blood Asp has a large amount of available pod space for its size. 	
+
+manufacturer:Sheridan LM-TA 8-10
+primaryfactory:Sheridan
+systemmanufacturer:CHASSIS:Type MAES-90 Light
+systemmanufacturer:ENGINE:Consolidated Fusion 360 XL
+systemmanufacturer:ARMOR:Forging ZZ7 Ceramic Plate
+systemmanufacturer:COMMUNICATIONS:Series D8 CC-25X with ECM
+systemmanufacturer:TARGETING:“Hermes” CT-42 Mk. II

@@ -1,16 +1,17 @@
 Version:1.0
-Blood Asp
+Star Adder (Blood Asp)
 B
+mul id:400
 
 Config:Biped Omnimech
 TechBase:Clan
 Era:3060
-Source:TRO 3060
+Source:TRO 3060 - Clan Invasion
 Rules Level:2
 
 Mass:90
-Engine:360 XL (Clan) Engine
-Structure:Endo Steel
+Engine:360 XL (Clan) Engine(IS)
+Structure:Clan Endo Steel
 Myomer:Standard
 
 Heat Sinks:16 Double
@@ -43,39 +44,39 @@ Gauss Rifle, Right Torso
 Left Arm:
 Shoulder
 Upper Arm Actuator
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLArtemisIV
-Clan Ammo LRM-20 (Clan) Artemis-capable
-Clan Ammo LRM-20 (Clan) Artemis-capable
-Endo Steel
-Endo Steel
-Endo Steel
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLArtemisIV (omnipod)
+Clan Ammo LRM-20 (Clan) Artemis-capable (omnipod)
+Clan Ammo LRM-20 (Clan) Artemis-capable (omnipod)
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
 
 Right Arm:
 Shoulder
 Upper Arm Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLArtemisIV
-Clan Ammo LRM-20 (Clan) Artemis-capable
-Clan Ammo LRM-20 (Clan) Artemis-capable
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLLRM20 (omnipod)
+CLArtemisIV (omnipod)
+Clan Ammo LRM-20 (Clan) Artemis-capable (omnipod)
+Clan Ammo LRM-20 (Clan) Artemis-capable (omnipod)
+Clan Endo Steel
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-CLMediumPulseLaser
-Endo Steel
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+CLMediumPulseLaser (omnipod)
+Clan Endo Steel
 -Empty-
 -Empty-
 -Empty-
@@ -85,15 +86,15 @@ Endo Steel
 Right Torso:
 Fusion Engine
 Fusion Engine
-CLDoubleHeatSink
-CLDoubleHeatSink
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-CLGaussRifle
-Endo Steel
+CLDoubleHeatSink (omnipod)
+CLDoubleHeatSink (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+CLGaussRifle (omnipod)
+Clan Endo Steel
 -Empty-
 
 Center Torso:
@@ -107,14 +108,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-CLECMSuite
-Clan Gauss Ammo
+CLECMSuite (omnipod)
+Clan Gauss Ammo (omnipod)
 
 Head:
 Life Support
 Sensors
 Cockpit
-Endo Steel
+Clan Endo Steel
 Sensors
 Life Support
 -Empty-
@@ -129,7 +130,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Clan Gauss Ammo
+Clan Gauss Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -143,7 +144,7 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-Clan Gauss Ammo
+Clan Gauss Ammo (omnipod)
 -Empty-
 -Empty-
 -Empty-
@@ -152,4 +153,18 @@ Clan Gauss Ammo
 -Empty-
 -Empty-
 
+overview:One of the first 'Mechs to field the breakthrough Heavy Laser technology, the Blood Asp proves to be an offensive powerhouse. Delivering incredible damage at all ranges, the Blood Asp makes short work of any enemy regardless of size.
 
+capabilities:Based on the Kingfisher, the Blood Asp adds an XL engine, but space constraints forced the replacement of the Kingfisher's ferro-fibrous armor with standard plate. The Blood Asp incorporates sixteen tons of this armor and fourteen double heat sinks in the base chassis.
+
+deployment:The second alternate configuration is a fire-support design that uses a Gauss rifle and a pair of LRM-20s with Artemis IV Fire Control Systems. In case an enemy unit gets close, it mounts four Medium Pulse Lasers and an ECM Suite. Two additional heat sinks ensure this design stays cool.
+
+history:Created by Clan Star Adder as an insult to their enemies, Clan Blood Spirit, the Blood Asp has a large amount of available pod space for its size. 	
+
+manufacturer:Sheridan LM-TA 8-10
+primaryfactory:Sheridan
+systemmanufacturer:CHASSIS:Type MAES-90 Light
+systemmanufacturer:ENGINE:Consolidated Fusion 360 XL
+systemmanufacturer:ARMOR:Forging ZZ7 Ceramic Plate
+systemmanufacturer:COMMUNICATIONS:Series D8 CC-25X with ECM
+systemmanufacturer:TARGETING:“Hermes” CT-42 Mk. II
