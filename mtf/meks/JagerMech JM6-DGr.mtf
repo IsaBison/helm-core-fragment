@@ -1,53 +1,51 @@
-Version:1.0
+Version:1.3
 JagerMech
-JM7-D
-
+JM6-DGr
+mul id:4389
 Config:Biped
-TechBase:Inner Sphere
-Era:3057
-Source:TRO 3050 - Clan Invasion
-Rules Level:2
+techbase:Inner Sphere
+era:3058
+source:TRO 3050 - Clan Invasion
+rules level:2
 
-Mass:70
-Engine:280 XL Engine(IS)
-Structure:IS Standard
-Myomer:Standard
+mass:65
+engine:260 XL Engine(IS)
+structure:IS Standard
+myomer:Standard
 
-Heat Sinks:13 Double
-Walk MP:4
-Jump MP:0
+heat sinks:10 IS Double
+walk mp:4
+jump mp:0
 
-Armor:Ferro-Fibrous(Inner Sphere)
-LA Armor:22
-RA Armor:22
-LT Armor:24
-RT Armor:24
-CT Armor:34
-HD Armor:9
-LL Armor:22
-RL Armor:22
-RTL Armor:6
-RTR Armor:6
-RTC Armor:6
+armor:Ferro-Fibrous(Inner Sphere)
+LA armor:8
+RA armor:8
+LT armor:17
+RT armor:17
+CT armor:18
+HD armor:9
+LL armor:12
+RL armor:12
+RTL armor:5
+RTR armor:5
+RTC armor:5
 
-Weapons:6
-Ultra AC/5, Left Arm
-ER Large Laser, Left Arm
-Ultra AC/5, Right Arm
-ER Large Laser, Right Arm
-Medium Pulse Laser, Center Torso
-Medium Pulse Laser, Center Torso
+Weapons:4
+Gauss Rifle, Left Arm
+Gauss Rifle, Right Arm
+ER Medium Laser, Center Torso
+ER Medium Laser, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
@@ -55,13 +53,13 @@ IS Ferro-Fibrous
 Right Arm:
 Shoulder
 Upper Arm Actuator
-ISERLargeLaser
-ISERLargeLaser
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
-ISUltraAC5
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
@@ -70,29 +68,29 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-IS Ultra AC/5 Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
 ISCASE
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISDoubleHeatSink
-ISDoubleHeatSink
-ISDoubleHeatSink
-IS Ultra AC/5 Ammo
+IS Gauss Ammo
+IS Gauss Ammo
+IS Gauss Ammo
 ISCASE
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -105,8 +103,8 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-ISMediumPulseLaser
-ISMediumPulseLaser
+ISERMediumLaser
+ISERMediumLaser
 
 Head:
 Life Support
