@@ -31,7 +31,7 @@ RTR armor:5
 RTC armor:6
 
 Weapons:3
-Medium VSP Laser, Right Torso
+Medium VSP Laser, Left Torso
 Medium VSP Laser, Right Torso
 Medium Re-engineered Laser, Center Torso
 
@@ -67,12 +67,12 @@ Left Torso:
 Fusion Engine
 Fusion Engine
 Fusion Engine
+ISMediumVSPLaser
+ISMediumVSPLaser
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
--Empty-
--Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -83,12 +83,12 @@ Fusion Engine
 Fusion Engine
 ISMediumVSPLaser
 ISMediumVSPLaser
-ISMediumVSPLaser
-ISMediumVSPLaser
 Supercharger
 IS Ferro-Fibrous
 IS Ferro-Fibrous
 IS Ferro-Fibrous
+-Empty-
+-Empty-
 -Empty-
 
 Center Torso:
