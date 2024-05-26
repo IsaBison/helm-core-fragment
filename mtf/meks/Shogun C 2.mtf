@@ -15,7 +15,7 @@ quirk:barrel_fists_ra
 quirk:difficult_maintain
 quirk:non_standard
 
-
+armor
 mass:85
 engine:255 Fusion (Clan) Engine(IS)
 structure:IS Standard
@@ -25,7 +25,7 @@ heat sinks:14 Clan Double
 walk mp:3
 jump mp:3
 
-armor:Standard(Clan)
+armor:Ferro-Lamellor(Clan)
 LA armor:28
 RA armor:28
 LT armor:27
