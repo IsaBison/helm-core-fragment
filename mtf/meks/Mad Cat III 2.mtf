@@ -1,49 +1,59 @@
 Version:1.0
 Mad Cat III
 2
+mul id:4562
 
 Config:Biped
 TechBase:Clan
 Era:3089
-Rules Level:2
+Source:TRO: Prototypes
+Rules Level:3
 
 Mass:55
-Engine:330 XL Engine
-Structure:Endo Steel
+Engine:330 XL (Clan) Engine(IS)
+Structure:Endo-Composite
 Myomer:Standard
 
-Heat Sinks:16 Double
+Heat Sinks:11 Double
 Walk MP:6
-Jump MP:5
+Jump MP:0
 
-Armor:Ferro-Fibrous
-LA Armor:18
-RA Armor:18
-LT Armor:20
-RT Armor:20
-CT Armor:27
+Armor:Ferro-Fibrous(Clan)
+LA Armor:16
+RA Armor:16
+LT Armor:19
+RT Armor:19
+CT Armor:23
 HD Armor:9
-LL Armor:26
-RL Armor:26
-RTL Armor:6
-RTR Armor:6
-RTC Armor:9
+LL Armor:24
+RL Armor:24
+RTL Armor:7
+RTR Armor:7
+RTC Armor:8
 
-Weapons:4
-1 CLHeavyMediumLaser, Right Arm
-1 CLHeavyMediumLaser, Left Arm
-1 CLLRM20, Right Torso, Ammo:12
-1 CLLRM20, Left Torso
+Weapons:12
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+SRM 6, Left Torso
+SRM 6, Left Torso
+Micro Pulse Laser, Left Torso
+Micro Pulse Laser, Left Torso
+SRM 6, Right Torso
+SRM 6, Right Torso
+Micro Pulse Laser, Right Torso
+Micro Pulse Laser, Right Torso
+Micro Pulse Laser, Center Torso
+Micro Pulse Laser, Center Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLHeavyMediumLaser
-CLHeavyMediumLaser
+CLMediumPulseLaser
+Endo-Composite
+Endo-Composite
 Ferro-Fibrous
-Ferro-Fibrous
-Ferro-Fibrous
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -53,43 +63,43 @@ Right Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
-CLHeavyMediumLaser
-CLHeavyMediumLaser
-Endo Steel
-Endo Steel
-Endo Steel
-Endo Steel
+CLMediumPulseLaser
+Endo-Composite
+Endo-Composite
+Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
 -Empty-
 
 Left Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20 Ammo
-Ferro-Fibrous
-Ferro-Fibrous
-Ferro-Fibrous
+CLSRM6
+CLArtemisV
+CLArtemisV
+CLSRM6
+CLArtemisV
+CLArtemisV
+CLMicroPulseLaser
+CLMicroPulseLaser
+Clan Ammo SRM-6 (Clan) Artemis V-capable
+-Empty-
 
 Right Torso:
 Fusion Engine
 Fusion Engine
-Jump Jet
-Jump Jet
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20
-CLLRM20 Ammo
-Endo Steel
-Endo Steel
-Endo Steel
+CLSRM6
+CLArtemisV
+CLArtemisV
+CLSRM6
+CLArtemisV
+CLArtemisV
+CLMicroPulseLaser
+CLMicroPulseLaser
+Clan Ammo SRM-6 (Clan) Artemis V-capable
+-Empty-
 
 Center Torso:
 Fusion Engine
@@ -102,14 +112,14 @@ Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
-Jump Jet
-Ferro-Fibrous
+CLMicroPulseLaser
+CLMicroPulseLaser
 
 Head:
 Life Support
 Sensors
 Cockpit
--Empty-
+Ferro-Fibrous
 Sensors
 Life Support
 -Empty-
@@ -124,8 +134,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
 -Empty-
 -Empty-
 -Empty-
@@ -138,12 +148,13 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDouble Heat Sink
-CLDouble Heat Sink
+Ferro-Fibrous
+Ferro-Fibrous
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
 -Empty-
+
 
