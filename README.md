@@ -1,7 +1,7 @@
 # Helm Core Fragment
 
-A catalog of [MegaMek](https://github.com/MegaMek) robot units in MTF format.
+A catalog of [MegaMek](https://github.com/MegaMek) bipeds in MTF format.
 
-There's been some small tweaks to a few of the mtf files in the catalog to improve consistency. Some things are still outstanding, e.g. 'history' vs. 'hist'.
+Please file issues instead of making pull requests.
 
-The unitList.xml and unitList.json files are manifests of the catalog with meta details about each unit and its filename.
+The unitList.xml and unitList.json files are manifests of the catalog with meta details about each unit, file name, and Flechs Sheets support.
